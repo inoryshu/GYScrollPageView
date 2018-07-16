@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - GYScrollPageView (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - GYScrollPageView (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  GYScrollPageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  GYScrollPageView: 656c156f4cd2e9bfdf1e463953f78b3ae627682d
+
+PODFILE CHECKSUM: 1c03976666e3c187baef928eb41058fbd9d1cb28
+
+COCOAPODS: 1.5.3

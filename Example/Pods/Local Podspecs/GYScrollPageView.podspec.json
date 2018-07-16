@@ -1,0 +1,22 @@
+{
+  "name": "GYScrollPageView",
+  "version": "0.1.0",
+  "summary": "A short description of GYScrollPageView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/inoryshu/GYScrollPageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "inoryshu": "inoryxun@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/inoryshu/GYScrollPageView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GYScrollPageView/Classes/**/*"
+}
