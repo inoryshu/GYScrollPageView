@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GYScrollPageView_Example' do
+  pod 'GYScrollPageView', :path => '../'
+
+  target 'GYScrollPageView_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
