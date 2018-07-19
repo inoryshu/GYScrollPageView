@@ -10,6 +10,9 @@
 #endif
 #endif
 
+#import "GYPageHead.h"
+#import "GYPageSegment.h"
+#import "GYScrollPageView.h"
 
 FOUNDATION_EXPORT double GYScrollPageViewVersionNumber;
 FOUNDATION_EXPORT const unsigned char GYScrollPageViewVersionString[];

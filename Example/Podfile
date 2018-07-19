@@ -6,6 +6,5 @@ target 'GYScrollPageView_Example' do
   target 'GYScrollPageView_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
   end
 end
